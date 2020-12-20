@@ -1,2 +1,2 @@
-# android-Java
-App de vendas android criado em Java
+# android-Java_e-commerce
+App de vendas android criado com java
